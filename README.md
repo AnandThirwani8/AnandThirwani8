@@ -22,10 +22,10 @@ I'm an AI/ML Engineer with over 8 years of experience in building and deploying 
 - **Visualization & Tools**: Plotly Dash, Streamlit
 
 ## 📝 Latest Work
-- 📄 The End of Hallucinations? How Multi-Agent AI Systems Could Eliminate LLM Hallucinations.
-- 📄 Text to SQL AI Agent in Less Than 10 Lines of Code
+- 📄 [The End of Hallucinations? How Multi-Agent AI Systems Could Eliminate LLM Hallucinations](https://medium.com/@anandthirwani/the-end-of-hallucinations-how-multi-agent-ai-systems-could-eliminate-llm-hallucinations-d41853689ec1)
+- 📄 [Text to SQL AI Agent in Less Than 10 Lines of Code](https://medium.com/@anandthirwani/text-to-sql-ai-agent-in-less-than-10-lines-of-code-09b6d7e3cb41)
 - 📄 [Data Exploration with Agentic AI: Exploring the Titanic Dataset using SmolAgents](https://medium.com/@anandthirwani/data-exploration-with-agentic-ai-exploring-the-titanic-dataset-using-smolagents-e743e882ec8c)
 
 ## 📫 Let's Connect!
-- **LinkedIn**: [www.linkedin.com/in/anandthirwani](#)
-- **Medium**: [www.linkedin.com/in/anandthirwani](#)
+- [**LinkedIn**](www.linkedin.com/in/anandthirwani)
+- [**Medium**](www.linkedin.com/in/anandthirwani)
