@@ -22,10 +22,10 @@ I'm an AI/ML Engineer with over 8 years of experience in building and deploying 
 - **Visualization & Tools**: Plotly Dash, Streamlit
 
 ## 📝 Latest Work
-- 📄 Publishing research on anomaly detection in time series & faulty junction box detection.
-- 🔬 Experimenting with Vision-Language Models for small defect detection.
-- 📝 Writing a blog on AI agents for exploratory data analysis.
+- 📄 The End of Hallucinations? How Multi-Agent AI Systems Could Eliminate LLM Hallucinations.
+- 📄 Text to SQL AI Agent in Less Than 10 Lines of Code
+- 📄 [Data Exploration with Agentic AI: Exploring the Titanic Dataset using SmolAgents] (https://medium.com/@anandthirwani/data-exploration-with-agentic-ai-exploring-the-titanic-dataset-using-smolagents-e743e882ec8c)
 
 ## 📫 Let's Connect!
 - **LinkedIn**: [www.linkedin.com/in/anandthirwani](#)
-- **Medium**: [[www.linkedin.com/in/anandthirwani](https://medium.com/@anandthirwani)](#)
+- **Medium**: [www.linkedin.com/in/anandthirwani](#)
