@@ -10,7 +10,7 @@ I'm an AI/ML Engineer with over 8 years of experience in building and deploying 
 - 📄 [Data Exploration with Agentic AI: Exploring the Titanic Dataset using SmolAgents](https://medium.com/@anandthirwani/data-exploration-with-agentic-ai-exploring-the-titanic-dataset-using-smolagents-e743e882ec8c)
 
 ## 🏢 Experience
-- **Jio Platformss** – Leading AI technology development for the renewable energy vertical.
+- **Jio Platforms** – Leading AI technology development for the renewable energy vertical.
 - **Twitter** – Developed ML models that improved user retention by over 100k+ users.
 - **Walmart** – Built pricing optimization models yielding ~$500M reduction in unsold inventory across ~200M items.
 
