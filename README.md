@@ -1,7 +1,7 @@
 # Hi, I'm Anand 👋
 
 ## 🚀 About Me
-I'm an AI/ML Engineer with over 8 years of experience in building and deploying machine learning models at scale. My expertise spans Generative AI, Computer Vision, NLP, Time Series Forecasting, and Causal Inference. I specialize in creating end-to-end ML pipelines that transform raw data into actionable insights.
+I'm an Data Scientist with over 8 years of experience in building and deploying machine learning models at scale. My expertise spans Generative AI, Computer Vision, NLP, Time Series Forecasting, and Causal Inference. I specialize in creating end-to-end ML pipelines that transform raw data into actionable insights.
 
 ## 📝 Latest Work
 - 📄 [Implementing Agentic RAG for Real-World Tasks](https://medium.com/@anandthirwani/implementing-agentic-rag-for-real-world-tasks-f4ce2c800aa0)
@@ -28,5 +28,5 @@ I'm an AI/ML Engineer with over 8 years of experience in building and deploying 
 - **Visualization & Tools**: Plotly Dash, Streamlit
 
 ## 📫 Let's Connect!
-- [**LinkedIn**](www.linkedin.com/in/anandthirwani)
-- [**Medium**](www.linkedin.com/in/anandthirwani)
+- [LinkedIn](www.linkedin.com/in/anandthirwani)
+- [Medium](www.linkedin.com/in/anandthirwani)
